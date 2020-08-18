@@ -1,13 +1,11 @@
 # Xcode Templates: MVP
 
-![alt text](https://github.com/polar133/mvp-xcode-template/blob/master/mvp.png)
-
 Plantillas para crear features en los proyectos de iOS.
 
 ## Instalar
 
 ```bash
-git clone https://github.com/polar133/mvp-xcode-template.git
+git clone https://github.com/arodriguezp2003/MVPIOS.git
 cd xcode-template
 make install_templates
 ```
